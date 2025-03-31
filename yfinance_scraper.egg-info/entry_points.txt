@@ -1,0 +1,2 @@
+[console_scripts]
+yfinance-scraper = yfinance_scraper.cli:main
